@@ -21,7 +21,7 @@ const generatedBibEntries = {
         "publisher": "VIS4DH",
         "keywords": "Visualization, inclusion, digital humanities, critical perspectives, feminism",
         "url": "https://kanarinka.com/wp-content/uploads/2015/07/IEEE_Feminist_Data_Visualization.pdf",
-        "series": "VIS4DH"
+        "series": "VIS4DH" 
     },
     "Risam_2023": {
         "title": "Intersectional feminist data visualization Precepts and practices",
