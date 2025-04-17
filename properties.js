@@ -2,7 +2,7 @@
  * Name as used as title for the main page
  * @type {string}
  */
-var title = 'Tracing fem vis: papers and projects';
+var title = 'Tracing fem vis: papers and projects (NEW!)';
 
 /**
  * Relative path to the data directory
