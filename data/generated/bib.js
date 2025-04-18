@@ -13,7 +13,7 @@ const generatedBibEntries = {
     },  
     "D'Ignazio_2016": {
         "title": "Feminist data visualization",
-        "author": "D'Ignazio, Catherine and Klein, Lauren F",
+        "author": "D'Ignazio, Catherine and Klein, Lauren",
         "year": "2016",
         "paper_type": "Short Paper",
         "abstract": "In this paper, we begin to outline how feminist theory may be productively applied to information visualization research and practice. Other technology- and design-oriented fields such as Science and Technology Studies, Human-Computer Interaction, Digital Humanities, and Geography/GIS have begun to incorporate feminist principles into their research. Feminism is not (just) about women, but rather draws our attention to questions of epistemology – who is included in dominant ways of producing and communicating knowledge and whose perspectives are marginalized. We describe potential applications of feminist theory to influence the information design process as well as to shape the outputs from that process.",
@@ -412,9 +412,9 @@ const generatedBibEntries = {
         "doi": "10.1145/3411763.3451587",
         "series": "CHI"
     },
-    "{D\\\"{O}Rk_2013": {
+    "{Dörk_2013": {
         "title": "{Critical} {InfoVis}: Exploring the Politics of Visualization",
-        "author": "{D\\\"{o}rk, Marian and Feng, Patrick and Collins, Christopher and Carpendale, Sheelagh",
+        "author": "{Dörk, Marian and Feng, Patrick and Collins, Christopher and Carpendale, Sheelagh",
         "year": "2013",
         "paper_type": "Extended Abstract",
         "abstract": "As information visualization is increasingly used to raise awareness about social issues, difficult questions arise about the power of visualization. So far the research community has not given sufficient thought to how values and assumptions pervade information visualization. Taking engaging visualizations as a starting point, we outline a critical approach that promotes disclosure, plurality, contingency, and empowerment. Based on this approach, we pose some challenges and opportunities for visualization researchers and practitioners.",
