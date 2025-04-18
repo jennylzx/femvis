@@ -11,9 +11,9 @@ const generatedBibEntries = {
         "doi": "10.5555/2788890.2788919",
         "series": "CHI"
     },  
-    "DIgnazio_2016": {
+    "D'Ignazio_2016": {
         "title": "Feminist data visualization",
-        "author": "d'Ignazio, Catherine and Klein, Lauren F",
+        "author": "D'Ignazio, Catherine and Klein, Lauren F",
         "year": "2016",
         "paper_type": "Short Paper",
         "abstract": "In this paper, we begin to outline how feminist theory may be productively applied to information visualization research and practice. Other technology- and design-oriented fields such as Science and Technology Studies, Human-Computer Interaction, Digital Humanities, and Geography/GIS have begun to incorporate feminist principles into their research. Feminism is not (just) about women, but rather draws our attention to questions of epistemology – who is included in dominant ways of producing and communicating knowledge and whose perspectives are marginalized. We describe potential applications of feminist theory to influence the information design process as well as to shape the outputs from that process.",
@@ -56,7 +56,7 @@ const generatedBibEntries = {
         "url": "https://digitalhumanities.org/dhq/vol/5/1/000091/000091.html",
         "series": "Digital Humanities"
     },
-    "Uhinrichs_2017": {
+    "Hinrichs_2017": {
         "title": "In {Defence} of {Sandcastles}: {Research} {Thinking} through {Visualization} in {DH}",
         "author": "Hinrichs, Uta",
         "year": "2017",
@@ -67,7 +67,7 @@ const generatedBibEntries = {
         "url": "https://dh2017.adho.org/abstracts/133/133.pdf",
         "series": "Digital Humanities"
     },
-    "Byrne_2021": {
+    "Ploehn_2021": {
         "title": "Feral data visualization: A manifesto for cultivating livable worlds with visual sensemaking practices",
         "author": "Ploehn, Cathryn and Steenson, Molly and Byrne, Daragh",
         "year": "2021",
@@ -103,7 +103,7 @@ const generatedBibEntries = {
         "doi": "10.1109/VIS49827.2021.9623294",
         "series": "VIS"
     },
-    "Kelsky_2020": {
+    "Elli_2020": {
         "title": "Tied in Knots: A Case Study on Anthropographic Data Visualization About Sexual Harassment in the Academy",
         "author": "Elli, Tommaso and Bradley, Adam and Collins, Christopher and Hinrichs, Uta and Hills, Zachary and Kelsky, Karen",
         "year": "2020",
@@ -115,7 +115,7 @@ const generatedBibEntries = {
         "doi": "10.1109/VISAP51628.2020.00010",
         "series": "VISAP"
     },
-    "Byrne_2020": {
+    "Ploehn_2020": {
         "title": "Tsuga Convictio: Visualizing for the ecological, feminine, and embodied",
         "author": "Ploehn, Cathryn and Steenson, Molly and Byrne, Daragh",
         "year": "2020",
@@ -127,7 +127,7 @@ const generatedBibEntries = {
         "doi": "10.1109/VISAP51628.2020.00008",
         "series": "VISAP"
     },
-    "Borkin_2020": {
+    "Ahmed_2020": {
         "title": "Data Visualization for Transgender Voice Training",
         "author": "Ahmed, Alex A. and Borkin, Michelle A.",
         "year": "2020",
@@ -139,7 +139,7 @@ const generatedBibEntries = {
         "doi": "10.1109/VIS47514.2020.00051",
         "series": "VIS"
     },
-    "Mahyar_2021": {
+    "Burns_2021": {
         "title": "Making the Invisible Visible: Risks and Benefits of Disclosing Metadata in Visualization",
         "author": "Burns, Alyxander and On, Thai and Lee, Christiana and Shapiro, Rachel and Xiong, Cindy and Mahyar, Narges",
         "year": "2021",
@@ -151,7 +151,7 @@ const generatedBibEntries = {
         "doi": "10.1109/VIS4Good54225.2021.00008",
         "series": "VIS4Good"
     },
-    "Harrison_2022": {
+    "Shrestha_2022": {
         "title": "{FairFuse}: {Interactive} {Visual} {Support} for {Fair} {Consensus} {Ranking}",
         "author": "Shrestha, Hilson and Cachel, Kathleen and Alkhathlan, Mallak and Rundensteiner, Elke and Harrison, Lane",
         "year": "2022",
@@ -163,7 +163,7 @@ const generatedBibEntries = {
         "doi": "10.1109/VIS54862.2022.00022",
         "series": "VIS"
     },
-    "Dwyer_2023": {
+    "Goodwin_2023": {
         "title": "Do Words Matter: Visualising Historical Policy and Media Narratives around Opportunity and Disadvantage in Australia",
         "author": "Goodwin, Sarah and Angus, Simon D. and O’Neill, Lachlan and Van Nieuwenhove, Nancy and Wu, Ben and Zhang, Yingqi and Dwyer, Tim",
         "year": "2023",
@@ -175,7 +175,7 @@ const generatedBibEntries = {
         "doi": "10.1109/VIS4DH60378.2023.00007",
         "series": "VIS4DH"
     },
-    "Mcgail_2022": {
+    "Li_2022": {
     "title": "Shifting {Winds}: {Gendered} {Structures} of {Academic} {Mentorship}",
     "author": "Li, Jing and Liu, Hua and Zeng, Jiawei and Wu, David and Ding, Yan and McGail, Amanda",
     "year": "2022",
@@ -187,7 +187,7 @@ const generatedBibEntries = {
     "doi": "10.1109/VISAP57411.2022.00010",
     "series": "VISAP"
     },
-    "Hinrichs_2020": {
+    "Vancisin_2020": {
         "title": "Externalizing Transformations of Historical Documents: Opportunities for Provenance-Driven Visualization",
         "author": "Vancisin, Tomas and Orr, Mary and Hinrichs, Uta",
         "year": "2020",
@@ -199,7 +199,7 @@ const generatedBibEntries = {
         "doi": "10.1109/VIS4DH51463.2020.00011",
         "series": "VIS4DH"
     },
-    "Bach_2024": {
+    "Kauer_2024": {
         "title": "Discursive Patinas: Anchoring Discussions in Data Visualizations",
         "author": "Kauer, Thomas and Akbaba, Derya and Dörk, Marian and Bach, Benjamin",
         "year": "2024",
@@ -211,7 +211,7 @@ const generatedBibEntries = {
         "doi": "10.1109/TVCG.2024.3456334",
         "series": "TVCG"
     },
-    "Lex_2023": {
+    "Lin_2023": {
         "title": "Data Hunches: Incorporating Personal Knowledge into Visualizations",
         "author": "Lin, Haihan and Akbaba, Derya and Meyer, Miriah and Lex, Alexander",
         "year": "2023",
@@ -223,7 +223,7 @@ const generatedBibEntries = {
         "doi": "10.1109/TVCG.2022.3209451",
         "series": "TVCG"
     },
-    "Mahyar_2023": {
+    "Sarvghad_2023": {
         "title": "{Scientometric} {Analysis} of {Interdisciplinary} {Collaboration} and {Gender} {Trends} in 30 {Years} of {IEEE} {VIS} {Publications}",
         "author": "Sarvghad, Ali and Franqui-Nadal, Rolando and Reznik-Zellen, Rebecca and Chawla, Ria and Mahyar, Narges",
         "year": "2023",
@@ -235,19 +235,7 @@ const generatedBibEntries = {
         "doi": "10.1109/TVCG.2022.3158236",
         "series": "TVCG"
     },
-    "Mahyar_2024": {
-        "title": "{Insights} from {Experiments} with {Rigor} in an {EvoBio} {Design} {Study}",
-        "author": "Rogers, Jen and Patton, Austin H. and Harmon, Luke and Lex, Alexander and Meyer, Miriah",
-        "year": "2024",
-        "paper_type": "Full Paper",
-        "abstract": "Leaving the context of visualizations invisible can have negative impacts on understanding and transparency. While common wisdom suggests that recontextualizing visualizations with metadata (e.g., disclosing the data source or instructions for decoding the visualizationsâ€™ encoding) may counter these effects, the impact remains largely unknown. To fill this gap, we conducted two experiments. In Experiment 1, we explored how chart type, topic, and user goal impacted which categories of metadata participants deemed most relevant. We presented 64 participants with four real-world visualizations. For each visualization, participants were given four goals and selected the type of metadata they most wanted from a set of 18 types. Our results indicated that participants were most interested in metadata which explained the visualization's encoding for goals related to understanding and metadata about the source of the data for assessing trustworthiness. In Experiment 2, we explored how these two types of metadata impact transparency, trustworthiness and persuasiveness, information relevance, and understanding. We asked 144 participants to explain the main message of two pairs of visualizations (one with metadata and one without); rate them on scales of transparency and relevance; and then predict the likelihood that they were selected for a presentation to policymakers. Our results suggested that visualizations with metadata were perceived as more thorough than those without metadata, but similarly relevant, accurate, clear, and complete. Additionally, we found that metadata did not impact the accuracy of the information extracted from visualizations, but may have influenced which information participants remembered as important or interesting.",
-        "journal": "IEEE Transactions on Visualization and Computer Graphics",
-        "publisher": "TVCG",
-        "keywords": "Metadata;trust;transparency;understanding;visualization",
-        "doi": "10.1109/TVCG.2022.3231716",
-        "series": "TVCG"
-    },
-    "Dykes_2019": {
+    "Wood_2019": {
         "title": "Design Exposition with Literate Visualization",
         "author": "Wood, Jo and Kachkaev, Alexander and Dykes, Jason",
         "year": "2019",
@@ -259,7 +247,7 @@ const generatedBibEntries = {
         "doi": "10.1109/TVCG.2018.2864836",
         "series": "TVCG"
     },
-    "Meyer_2021": {
+    "Rogers_2021": {
         "title": "{Insights} from {Experiments} with {Rigor} in an {EvoBio} {Design} {Study}",
         "author": "Rogers, Jen and Patton, Austin H. and Harmon, Luke and Lex, Alexander and Meyer, Miriah",
         "year": "2021",
@@ -271,7 +259,7 @@ const generatedBibEntries = {
         "doi": "10.1109/TVCG.2020.3030405",
         "series": "TVCG"
     },
-    "Meyer_2024": {
+    "Akbaba_2024": {
         "title": "Entanglements for Visualization: Changing Research Outcomes through Feminist Theory",
         "author": "Akbaba, Derya and Klein, Lauren and Meyer, Miriah",
         "year": "2024",
@@ -283,7 +271,7 @@ const generatedBibEntries = {
         "doi": "10.1109/TVCG.2024.3456171",
         "series": "TVCG"
     },
-    "Isenberg_2024": {
+    "Cabric_2024": {
         "title": "Eleven Years of Gender Data Visualization: A Step Towards More Inclusive Gender Representation",
         "author": "Cabric, Florent and Bjarnadóttir, Margrét Vilborg and Ling, Meng and Rafnsdóttir, Guðbjörg Linda and Isenberg, Petra",
         "year": "2024",
@@ -295,7 +283,7 @@ const generatedBibEntries = {
         "doi": "10.1109/TVCG.2023.3327369",
         "series": "TVCG"
     },
-    "Bongiovanni_2021": {
+    "Perovich_2021": {
         "title": "{Chemicals} in the {Creek}: Designing a Situated Data Physicalization of Open Government Data with the Community",
         "author": "Perovich, Lauren J. and Wylie, Sara A. and Bongiovanni, Roseann",
         "year": "2021",
