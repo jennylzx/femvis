@@ -10,7 +10,7 @@ const generatedBibEntries = {
         "keywords": "users, people, language, gender issues in HCI",
         "doi": "10.5555/2788890.2788919",
         "series": "CHI"
-    },  
+    },
     "D'Ignazio_2016": {
         "title": "Feminist data visualization",
         "author": "D'Ignazio, Catherine and Klein, Lauren",
@@ -21,7 +21,7 @@ const generatedBibEntries = {
         "publisher": "VIS4DH",
         "keywords": "Visualization, inclusion, digital humanities, critical perspectives, feminism",
         "url": "https://kanarinka.com/wp-content/uploads/2015/07/IEEE_Feminist_Data_Visualization.pdf",
-        "series": "VIS4DH" 
+        "series": "VIS4DH"
     },
     "Risam_2023": {
         "title": "Intersectional feminist data visualization Precepts and practices",
@@ -80,16 +80,16 @@ const generatedBibEntries = {
         "series": "VIS4Good"
     },
     "Albrecht_2022": {
-    "title": "{#MeToo} Anti-Network",
-    "author": "Albrecht, Katharina F.",
-    "year": "2022",
-    "paper_type": "Workshop Paper",
-    "abstract": "The measurements of “success” in networked social media do not render visible the actual importance of #MeToo or the broader phenomenon of structural sexual violence. In crucial ways, the structure of #MeToo is not a network. If we insist on mapping #MeToo as a network – the all-encompassing symbol of digital society – we risk missing fundamental elements of the movement that don’t answer to the network analogy. The arbitrary and heavily mediated frame of the 280-character tweet, and Twitter’s “rich-get-richer” network effects, amplify some voices at the expense of others. Mainstream white media are central while ethnic media are minor. White women celebrities are central while Black and Indigenous advocates are marginalized. Since Tarana Burke founded the movement in 2006, its goal has been to break the silence around sexual violence and uplift the voices of survivors. But what happens when the platform works against hearing those voices?",
-    "journal": "2022 IEEE VIS Arts Program (VISAP)",
-    "publisher": "VISAP",
-    "keywords": "Art;Social networking (online);Symbols;Auditory system;Media",
-    "doi": "10.1109/VISAP57411.2022.00012",
-    "series": "VISAP"
+        "title": "{#MeToo} Anti-Network",
+        "author": "Albrecht, Katharina F.",
+        "year": "2022",
+        "paper_type": "Workshop Paper",
+        "abstract": "The measurements of “success” in networked social media do not render visible the actual importance of #MeToo or the broader phenomenon of structural sexual violence. In crucial ways, the structure of #MeToo is not a network. If we insist on mapping #MeToo as a network – the all-encompassing symbol of digital society – we risk missing fundamental elements of the movement that don’t answer to the network analogy. The arbitrary and heavily mediated frame of the 280-character tweet, and Twitter’s “rich-get-richer” network effects, amplify some voices at the expense of others. Mainstream white media are central while ethnic media are minor. White women celebrities are central while Black and Indigenous advocates are marginalized. Since Tarana Burke founded the movement in 2006, its goal has been to break the silence around sexual violence and uplift the voices of survivors. But what happens when the platform works against hearing those voices?",
+        "journal": "2022 IEEE VIS Arts Program (VISAP)",
+        "publisher": "VISAP",
+        "keywords": "Art;Social networking (online);Symbols;Auditory system;Media",
+        "doi": "10.1109/VISAP57411.2022.00012",
+        "series": "VISAP"
     },
     "Mcnutt_2021": {
         "title": "On the Potential of Zines as a Medium for Visualization",
@@ -176,16 +176,16 @@ const generatedBibEntries = {
         "series": "VIS4DH"
     },
     "Li_2022": {
-    "title": "Shifting {Winds}: {Gendered} {Structures} of {Academic} {Mentorship}",
-    "author": "Li, Jing and Liu, Hua and Zeng, Jiawei and Wu, David and Ding, Yan and McGail, Amanda",
-    "year": "2022",
-    "paper_type": "Workshop Paper",
-    "abstract": "Every researcher alive today had their mentors, those who helped assimilate them into a life of scholarly work. And in turn they each had their mentors, and so on to the dawn of knowledge. In the same way, each researcher’s mentees take their perspectives and methods to future mentees, and to their mentees, etc. These comprise the roots and branches, respectively, of the academic tree of a single researcher. If we let these ancestors’ and descendants’ genders affect these trees like a “wind,” most curl nearly to the earth. We depict and describe the structure of these trees, and how this wind has changed over the decades. To set these trees growing upright again we visualize giving differential weight to male and female researchers.",
-    "journal": "2022 IEEE VIS Arts Program (VISAP)",
-    "publisher": "VISAP",
-    "keywords": "science of science;gender in academia;visualization design",
-    "doi": "10.1109/VISAP57411.2022.00010",
-    "series": "VISAP"
+        "title": "Shifting {Winds}: {Gendered} {Structures} of {Academic} {Mentorship}",
+        "author": "Li, Jing and Liu, Hua and Zeng, Jiawei and Wu, David and Ding, Yan and McGail, Amanda",
+        "year": "2022",
+        "paper_type": "Workshop Paper",
+        "abstract": "Every researcher alive today had their mentors, those who helped assimilate them into a life of scholarly work. And in turn they each had their mentors, and so on to the dawn of knowledge. In the same way, each researcher’s mentees take their perspectives and methods to future mentees, and to their mentees, etc. These comprise the roots and branches, respectively, of the academic tree of a single researcher. If we let these ancestors’ and descendants’ genders affect these trees like a “wind,” most curl nearly to the earth. We depict and describe the structure of these trees, and how this wind has changed over the decades. To set these trees growing upright again we visualize giving differential weight to male and female researchers.",
+        "journal": "2022 IEEE VIS Arts Program (VISAP)",
+        "publisher": "VISAP",
+        "keywords": "science of science;gender in academia;visualization design",
+        "doi": "10.1109/VISAP57411.2022.00010",
+        "series": "VISAP"
     },
     "Vancisin_2020": {
         "title": "Externalizing Transformations of Historical Documents: Opportunities for Provenance-Driven Visualization",
@@ -318,16 +318,16 @@ const generatedBibEntries = {
         "series": "CGF"
     },
     "Block_2020": {
-    "title": "Erasure, Misrepresentation and Confusion: Investigating {JSTOR} Topics on {Women's} and Race Histories",
-    "author": "Block, Sharon",
-    "year": "2020",
-    "paper_type": "Full Paper",
-    "abstract": "This article investigates the topic labeling system of a widely used full-text academic publication database, JSTOR, particularly in reference to colonial North American history scholarship. Using insights developed by critical algorithm and critical archival studies, it analyzes how JSTOR’s topics repeatedly misrepresent and erase work in women’s, African diasporic/African American, and Native American and settler colonial histories. The article discusses concerns over the power of metadata, the need for transparent and domain-expert-involved indexing processes, and digital providers’ responsibilities to accurately categorize scholars’ work. It particularly focuses on the potentially disproportionate harm done to traditionally marginalized fields of study through seemingly racist or sexist topical labeling that impedes knowledge discovery.",
-    "journal": "Digital Humanities Quarterly",
-    "publisher": "Digital Humanities Quarterly",
-    "keywords": " Gender , Misrepresentation",
-    "url": "https://www.proquest.com/scholarly-journals/erasure-misrepresentation-confusion-investigating/docview/2553556484/se-2?accountid=10673",
-    "series": "Digital Humanities"
+        "title": "Erasure, Misrepresentation and Confusion: Investigating {JSTOR} Topics on {Women's} and Race Histories",
+        "author": "Block, Sharon",
+        "year": "2020",
+        "paper_type": "Full Paper",
+        "abstract": "This article investigates the topic labeling system of a widely used full-text academic publication database, JSTOR, particularly in reference to colonial North American history scholarship. Using insights developed by critical algorithm and critical archival studies, it analyzes how JSTOR’s topics repeatedly misrepresent and erase work in women’s, African diasporic/African American, and Native American and settler colonial histories. The article discusses concerns over the power of metadata, the need for transparent and domain-expert-involved indexing processes, and digital providers’ responsibilities to accurately categorize scholars’ work. It particularly focuses on the potentially disproportionate harm done to traditionally marginalized fields of study through seemingly racist or sexist topical labeling that impedes knowledge discovery.",
+        "journal": "Digital Humanities Quarterly",
+        "publisher": "Digital Humanities Quarterly",
+        "keywords": " Gender , Misrepresentation",
+        "url": "https://www.proquest.com/scholarly-journals/erasure-misrepresentation-confusion-investigating/docview/2553556484/se-2?accountid=10673",
+        "series": "Digital Humanities"
     },
     "Dang_2020": {
         "title": "Unknowable Facts and Digital Databases: Reflections on the Women Film Pioneers Project and Women in Film History",

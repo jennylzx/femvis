@@ -21,10 +21,9 @@ const page = (function () {
             clustering.updateClusters();
             entryLayout.updateEntryList();
             setTimeout(
-                function() 
-                {
-                  // workaround: delayed loading waiting for the grid layout to be computed (to determine the correct width of the svg)
-                  timeline.updateTimeline();
+                function () {
+                    // workaround: delayed loading waiting for the grid layout to be computed (to determine the correct width of the svg)
+                    timeline.updateTimeline();
                 }, 500);
             if (scrollToTop) {
                 $('#result_body').scrollTop(0);
@@ -68,7 +67,7 @@ const page = (function () {
         $('<div>', { id: 'control' }).appendTo(container);
         $('<div>', { id: 'result' }).appendTo(container);
         $('<div>', { id: 'footer' }).appendTo(container);
-        $('<div>', { id: 'notifications'}).appendTo($('body'));
+        $('<div>', { id: 'notifications' }).appendTo($('body'));
     }
 
     function loadAllCSS() {
@@ -135,7 +134,7 @@ const page = (function () {
         } else {
             headerDiv.addClass('electron');
         }
-       // titleDiv.append($(`<a href="https://github.com/fabian-beck/survis"><img title="SurVis ${window.surVisVersion}" src="${stylesDir}img/survis_small.png"/></a>`));
+        titleDiv.append($(`<a href="https://jennylong.com/"><img title="Jenny palce holder ${window.surVisVersion}" src="${stylesDir}img/femvis_small.png"/></a>`));
         headerDiv.append(titleDiv);
         $('<form id="search"> <input type="search" placeholder="search ..."/> <div class="button" id="search_button">search </div> </form>').appendTo(headerDiv);
         headerDiv.append($('<div id="selectors_container"><div class="label">Selectors</div><div id="selectors"></div><div id="clear_selectors" class="button tooltip" title="clear selectors [esc]">clear</div><div style="clear: both;"></div></div>'));
