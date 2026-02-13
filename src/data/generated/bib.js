@@ -67,7 +67,7 @@
         "pages": "35--38",
         "publisher": "IEEE",
         "series": "{{VISAP}} '22",
-        "title": "\\#{{MeToo Anti-Network}}",
+        "title": "#{{MeToo Anti-Network}}",
         "type": "inproceedings",
         "url": "https://doi.org/10.1109/VISAP57411.2022.00012",
         "urldate": "2024-10-03",
@@ -178,26 +178,6 @@
         "volume": "2021",
         "year": "2021"
     },
-    "Burns_2024": {
-        "abstract": "Leaving the context of visualizations invisible can have negative impacts on understanding and transparency. While common wisdom suggests that recontextualizing visualizations with metadata (e.g., disclosing the data source or instructions for decoding the visualizations' encoding) may counter these effects, the impact remains largely unknown. To fill this gap, we conducted two experiments. In Experiment 1, we explored how chart type, topic, and user goal impacted which categories of metadata participants deemed most relevant. We presented 64 participants with four real-world visualizations. For each visualization, participants were given four goals and selected the type of metadata they most wanted from a set of 18 types. Our results indicated that participants were most interested in metadata which explained the visualization's encoding for goals related to understanding and metadata about the source of the data for assessing trustworthiness. In Experiment 2, we explored how these two types of metadata impact transparency, trustworthiness and persuasiveness, information relevance, and understanding. We asked 144 participants to explain the main message of two pairs of visualizations (one with metadata and one without); rate them on scales of transparency and relevance; and then predict the likelihood that they were selected for a presentation to policymakers. Our results suggested that visualizations with metadata were perceived as more thorough than those without metadata, but similarly relevant, accurate, clear, and complete. Additionally, we found that metadata did not impact the accuracy of the information extracted from visualizations, but may have influenced which information participants remembered as important or interesting.",
-        "author": "Burns, Alyxander and Lee, Christiana and On, Thai and Xiong, Cindy and Peck, Evan and Mahyar, Narges",
-        "doi": "10.1109/TVCG.2022.3231716",
-        "issn": "1941-0506",
-        "journal": "IEEE Transactions on Visualization and Computer Graphics",
-        "keywords": "Data mining,Data visualization,Encoding,Metadata,Organizations,Soft sensors,Stakeholders,transparency,trust,understanding,visualization",
-        "month": "jul,",
-        "number": "7",
-        "pages": "3427--3443",
-        "publisher": "Institute of Electrical and Electronics Engineers (IEEE)",
-        "series": "{{TVCG}} '24",
-        "shorttitle": "From {{Invisible}} to {{Visible}}",
-        "title": "From {{Invisible}} to {{Visible}}: {{Impacts}} of {{Metadata}} in {{Communicative Data Visualization}}",
-        "type": "article",
-        "url": "https://doi.org/10.1109/TVCG.2022.3231716",
-        "urldate": "2024-11-05",
-        "volume": "30",
-        "year": "2024"
-    },
     "Cabric_2023": {
         "abstract": "We present an analysis of the representation of gender as a data dimension in data visualizations and propose a set of considerations around visual variables and annotations for gender-related data. Gender is a common demographic dimension of data collected from study or survey participants, passengers, or customers, as well as across academic studies, especially in certain disciplines like sociology. Our work contributes to multiple ongoing discussions on the ethical implications of data visualizations. By choosing specific data, visual variables, and text labels, visualization designers may, inadvertently or not, perpetuate stereotypes and biases. Here, our goal is to start an evolving discussion on how to represent data on gender in data visualizations and raise awareness of the subtleties of choosing visual variables and words in gender visualizations. In order to ground this discussion, we collected and coded gender visualizations and their captions from five different scientific communities (Biology, Politics, Social Studies, Visualisation, and Human-Computer Interaction), in addition to images from Tableau Public and the Information Is Beautiful awards showcase. Overall we found that representation types are community-specific, color hue is the dominant visual channel for gender data, and nonconforming gender is under-represented. We end our paper with a discussion of considerations for gender visualization derived from our coding and the literature and recommendations for large data collection bodies. A free copy of this paper and all supplemental materials are available at https://osf.io/v9ams/",
         "archiveprefix": "arXiv",
@@ -252,7 +232,7 @@
         "shorttitle": "Feminist {{Periscoping}} and {{Feminist Data Visualization}}",
         "title": "Feminist {{Periscoping}} and {{Feminist Data Visualization}}: {{Strategies}} for {{Analyzing}} and {{Disseminating Messy Data}}",
         "type": "article",
-        "url": "https://doi.org/10.1080/00330124.2024.2308624",
+        "url": "https://www.tandfonline.com/doi/full/10.1080/00330124.2024.2308624",
         "urldate": "2024-10-02",
         "volume": "76",
         "year": "2024"
@@ -417,7 +397,7 @@
         "number": "1",
         "pages": "1--7",
         "publisher": "Association for Computing Machinery",
-        "series": "{{CHI EA}} '21 {{CHI}} '21",
+        "series": "{{CHI}} '21 {{CHI}} '21",
         "shorttitle": "{{WordBias}}",
         "title": "{{WordBias}}: {{An Interactive Visual Tool}} for {{Discovering Intersectional Biases Encoded}} in {{Word Embeddings}}",
         "type": "inproceedings",
@@ -762,7 +742,7 @@
         "volume": "2022",
         "year": "2022"
     },
-    "Simeoni_2024a": {
+    "Simeoni_2024": {
         "abstract": "Critical data studies denounce that heteronormative formalisations of sex/gender identity obscure queer lives from datasets and computational processes. Since sex/gender categories cannot convey nonbinarity and multiplicity, this project addresses the inherent tension between queerness and systematisation with an anticategorical quantitative visual approach, combining psychometric scales with visualisations of the gender spectrum. Indeed, using queer and feminist methodologies, we propose a new data structure resulting from the codesign of an interactive visualisation of the gender spectrum, made in an iterative dialogue with gender-diverse people. Our contribution is twofold: an inclusive data structure for the self-assessment of sex/gender identity, and an interactive visualisation, acting as a critical design object, educational and counselling tool, and basis for data collection, annotation, and analysis. Although this project could both empower and harm sexual minorities, its originality is seeing nonbinarity and multiplicity not as appendices to a normative system, but as queering design principles.",
         "address": "New York, NY, USA",
         "author": "Simeoni, Fe and {Men{\\'e}ndez-Blanco}, Mar{\\'i}a and Vyas, Rupesh and De Angeli, Antonella",
