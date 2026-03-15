@@ -116,27 +116,6 @@
         "volume": "14",
         "year": "2020"
     },
-    "Bradley_2015": {
-        "abstract": "In this paper, we present a Mechanical Turk study that explores how the most common words that have been used to refer to people in recent HCI literature are received by non-experts. The top five CHI 2014 people words are: user, participant, person, designer, and researcher. We asked participants to think about one of these words for ten seconds and then to draw an image of it. After the drawing was done we asked simple demographic questions about both the participant and the created image. Our results show that while generally our participants did perceive most of these words as predominately male, there were two notable exceptions. Women appear to perceive the terms \"person\" and \"participant\" as gender neutral. That is, they were just as likely to draw a person or a participant as male or female. So while these two words are not exactly gender neutral in that men largely perceived them as male, at least women did not appear to feel excluded by these terms. We offer an increased understanding of the perception of HCI's people words and discuss the challenges this poses to our community in striving toward gender inclusiveness.",
-        "address": "CAN",
-        "author": "Bradley, Adam and MacArthur, Cayley and Hancock, Mark and Carpendale, Sheelagh",
-        "booktitle": "Proceedings of the 41st {{Graphics Interface Conference}}",
-        "doi": "10.5555/2788890.2788919",
-        "isbn": "978-0-9947868-0-7",
-        "keywords": "gender issues in HCI,language,people,users",
-        "month": "jun,",
-        "number": "1",
-        "pages": "163--170",
-        "publisher": "Canadian Information Processing Society",
-        "series": "{{GI}} '15",
-        "shorttitle": "Gendered or Neutral?",
-        "title": "Gendered or Neutral? Considering the Language of {{HCI}}",
-        "type": "inproceedings",
-        "url": "https://dl.acm.org/doi/10.5555/2788890.2788919",
-        "urldate": "2023-09-27",
-        "volume": "2015",
-        "year": "2015"
-    },
     "Bravo_2022": {
         "abstract": "In this article, we address data visualization as a political artifact in light of the work of the Observatory of Data and Statistics on Gender and Intersectionalities (ODEGI). We show how a feminist approach explores political dimensions in data and turns data visualization into a tool of subversion and resistance against the systems of oppression, in an unequal society like the Chilean. The reflections in this article seek to create dialogue around the question of how data visualization can be transformed into a tool of non-oppression and liberation, from a feminist approach. In line with this, the first part of the article provides a brief contextualization of the political and ethical attributes of data visualization. Then, we reflect on a framework that allows us to understand it as a feminist tool. We will finally delve into the ODEGI case and our use of data visualization to contribute to the fight against patriarchy and other systems of oppression, giving concrete examples of the categories of analysis we use in our design and decision processes.",
         "article-number": "2",
@@ -216,6 +195,15 @@
         "url": "https://www.proquest.com/scholarly-journals/ethical-effective-visualization-knowledge/docview/2715485721/se-2?accountid",
         "volume": "016",
         "year": "2022"
+    },
+    "Cazacu_2025": {
+        "author": "Cazacu, Silvia and Panagiotidou, Georgia and Steenberghen, Therese and Vande Moere, Andrew",
+        "booktitle": "Association for Computing Machinery",
+        "doi": "10.1145/3706598.3713703",
+        "keywords": "Data Physicalization, Participatory Design, Data Feminism, Critical Reflection, Interpretivism, Power Dynamics, Ontology",
+        "title": "Disentangling the Power Dynamics in Participatory Data Physicalisation",
+        "type": "INPROCEEDINGS",
+        "year": "2025"
     },
     "Coddington_2024": {
         "abstract": "In this article, we build on feminist geographical methodological innovations that link theories about data transparency and multiplicity with praxis, suggesting how feminist methods can better reflect the messiness of data. We argue that two interrelated strategies, feminist periscoping and feminist visualization, can highlight the strengths across messy data sets while also being transparent about the gaps within the data. We illustrate this argument using two examples from research into public information campaigns developed to dissuade unauthorized migration to the United States and Australia. Taken together, we argue, feminist periscoping and feminist visualization approaches are an effective way of analyzing and disseminating messy data.",
